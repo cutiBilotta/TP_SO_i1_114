@@ -7,3 +7,7 @@ Cortes Abril
 a-Alfa si ve los datos cargados, ya que el repo no cuenta con ninguna restriccion para los colaboradores. Además, no solo podemos ver los arhivos que cargaron los demas integrantes, sino tambien las modificaciones de los archivos.
 
 b- Si se puede ver cuando Alfa agrega un archivo, ya que es el propietario del repositorio
+
+c- Si, se puede ver cuando Beta sube un archivo ya que es colaborador.
+
+d- Nos comunicamos mediante WhatsApp y github projects. 
