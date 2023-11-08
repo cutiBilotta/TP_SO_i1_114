@@ -3,3 +3,7 @@ Bilotta Agustina
 Cruz Andres
 
 Cortes Abril
+
+a-Alfa si ve los datos cargados, ya que el repo no cuenta con ninguna restriccion para los colaboradores
+
+b- Si se puede ver cuando Alfa agrega un archivo, ya que es el propietario del repositorio
