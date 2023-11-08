@@ -11,3 +11,5 @@ b- Si se puede ver cuando Alfa agrega un archivo, ya que es el propietario del r
 c- Si, se puede ver cuando Beta sube un archivo ya que es colaborador.
 
 d- Nos comunicamos mediante WhatsApp y github projects. 
+
+e- La mejor forma de comunicarnos dentro de GitHub fue mediante el projects. A medida que se hace la modificación, el usuario actualiza la tarea.
